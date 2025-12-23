@@ -15,3 +15,5 @@ Multiplayer Roblox combat game where players battle using randomly assigned gear
 - Server-client architecture for multiplayer
 - Performance optimization for scale
 - Player stats persistence with DataStore
+
+All code is within src folder under their respective folders to represent the Roblox Studio environment.
