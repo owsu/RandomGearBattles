@@ -2,6 +2,7 @@
 ![Game](screenshots/rgbthumbnail.jpg)
 Multiplayer Roblox combat game where players battle using randomly assigned gear.
 
+## Quick Summary
 - 13,500+ player visits
 - Built with Lua and Roblox Studio  
 - Implemented multiplayer networking for 120 concurrent players
